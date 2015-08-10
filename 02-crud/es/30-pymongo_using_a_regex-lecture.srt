@@ -3,22 +3,22 @@
 
 2
 00:00:00,120 --> 00:00:02,495
-Now we're going to talk about
-regular expression matching
+Bien, vamos a hablar sobre las 
+expresiones regulares 
 
 3
 00:00:02,495 --> 00:00:04,290
-within queries in MongoDB.
+dentro de las consultas en MongoDB.
 
 4
 00:00:04,290 --> 00:00:07,400
-This is the $regex
-operator, and you already
+Este es el operador $regex
+y ya lo hemos
 
 5
 00:00:07,400 --> 00:00:08,910
-went over that in
-the Mongo shell.
+visto en la línea de comandos
+de Mongo.
 
 6
 00:00:08,910 --> 00:00:11,930
