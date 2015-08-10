@@ -22,22 +22,22 @@ de Mongo.
 
 6
 00:00:08,910 --> 00:00:11,930
-Now we're going to show you
-how to do it using PyMongo.
+En esta ocasión vamos a ver
+cómo se hace esto con PyMongo.
 
 7
 00:00:11,930 --> 00:00:13,570
-And to illustrate
-how this works,
+Y para ilustrar cómo
+funciona,
 
 8
 00:00:13,570 --> 00:00:15,470
-we're going to use a
-data set that we just
+vamos a usar un conjunto de datos
+que hemos descargado 
 
 9
 00:00:15,470 --> 00:00:18,060
-brought in from Reddit.
+desde Reddit.
 
 10
 00:00:18,060 --> 00:00:21,220
